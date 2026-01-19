@@ -41,7 +41,7 @@ Nettverksdrift | Networkoperation
 <img width="64" height="52" alt="Linux-Logo" src="https://github.com/user-attachments/assets/25eb950e-5448-43c9-b437-ff4d12048550" />
 <img width="120" height="64" alt="Hpe-aruba-networking-logo svg" src="https://github.com/user-attachments/assets/0b7f9a19-553d-4904-9347-b27ff82df883" />
 <img width="120" height="68" alt="Cisco_logo_blue_2016 svg" src="https://github.com/user-attachments/assets/215fa69b-6535-42e0-a2cb-23c63bae79dd" />
-<img width="705" height="533" alt="Ubiquiti_Logo" src="https://github.com/user-attachments/assets/7f93a4aa-d43c-4a66-8aea-1b8d5a2753dc" />
+<img width="120" height="68" alt="Ubiquiti_Logo" src="https://github.com/user-attachments/assets/7f93a4aa-d43c-4a66-8aea-1b8d5a2753dc" />
 
   
 
