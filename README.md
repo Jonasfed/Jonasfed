@@ -37,9 +37,12 @@ Serverdrift | Serveroperation
 Nettverksdrift | Networkoperation  
 
 ## Extra experience
-  <img newline width="52" height="52" alt="windows server serious" src="https://github.com/user-attachments/assets/d7bef75e-abfc-4118-a541-580c6a529fed" />
-  <img newline width="52" height="62" alt="Linux_mascot_tux" src="https://github.com/user-attachments/assets/c3653d2c-a782-4cd3-a6ee-0cb057e3027d" />
-  <img width="56" height="56" alt="Aruba_Networks-Logo wine" src="https://github.com/user-attachments/assets/2ede3508-35b5-4866-ac43-ab83b2164665" />  
+<img width="960" height="960" alt="Windows_logo_-_2021 svg" src="https://github.com/user-attachments/assets/b21b4286-ed12-4f55-b6ef-ac53e5f66867" />
+<img width="3840" height="2160" alt="Linux-Logo" src="https://github.com/user-attachments/assets/25eb950e-5448-43c9-b437-ff4d12048550" />
+<img width="2560" height="584" alt="Hpe-aruba-networking-logo svg" src="https://github.com/user-attachments/assets/0b7f9a19-553d-4904-9347-b27ff82df883" />
+<img width="2560" height="1352" alt="Cisco_logo_blue_2016 svg" src="https://github.com/user-attachments/assets/215fa69b-6535-42e0-a2cb-23c63bae79dd" />
+<img width="705" height="533" alt="Ubiquiti_Logo" src="https://github.com/user-attachments/assets/7f93a4aa-d43c-4a66-8aea-1b8d5a2753dc" />
+
   
 
 - Windows OS / server (core = GUI)  
