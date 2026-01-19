@@ -31,10 +31,11 @@ Content producer Intern @ Fortell; innholdsbyrå
 IT/MP - IT student @ Hamar Cathedral School
 
 ## Indigo-IKT :: what i do
-Brukerstøtte | Usersuppeort  
+Brukerstøtte | Usersupport  
 Serviceteknikk | Servicetech  
 Serverdrift | Serveroperation  
 Nettverksdrift | Networkoperation  
+Generel It -Drift| general It -operations
 
 ## Extra experience
 <img width="56" height="56" alt="Windows_logo_-_2021 svg" src="https://github.com/user-attachments/assets/b21b4286-ed12-4f55-b6ef-ac53e5f66867" />
