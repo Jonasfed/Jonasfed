@@ -48,6 +48,8 @@ Nettverksdrift | Networkoperation
 - Windows OS / server (core = GUI)  
 - Linux OS / server
 - Aruba networking  
+- Cisco networking
+- Ubiquiti / unifi networking
 
 ## code knowlege
 Jeg vet ikke så mye om koding, det er mer av en hobby på dett tidspunktet, men jeg kan sikkert bygge noe veldig enkelt.
