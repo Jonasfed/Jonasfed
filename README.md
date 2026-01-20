@@ -4,7 +4,7 @@
 
 ## C:\ Fastfetch -c all
  
-[Jonas@Federley.lol](Federleyj@gmail.com)  
+[Jonas@Federley.lol] 
 ┌────────────Hardware  
 │ Host: Human 06  
 │ Brain: Human - integrated  
