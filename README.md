@@ -1,6 +1,6 @@
 # about me. / Om meg.
 
-### Jeg heter Jonas Federley, jeg er 19 år og jobber på Indigo-IKT iks som lærling.  
+### Jeg heter Jonas Federley, jeg er 20 år og studerer på Fagskolen Innlandet - 26IT-Drift og sikkerhet.  
 
 ## C:\ Fastfetch -c all
  
