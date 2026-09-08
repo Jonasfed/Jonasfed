@@ -26,9 +26,9 @@
  (fun twist on the normal "about me" formula / Morsom twist på vanelig "om meg" formelen)
 
 # My experience
-Apprentice @ Indigo-IKT iks
-Content producer Intern @ Fortell; innholdsbyrå
-IT/MP - IT student @ Hamar Cathedral School
+- Apprentice @ Indigo-IKT iks
+- Content producer Intern @ Fortell; innholdsbyrå
+- IT/MP - IT student @ Hamar Cathedral School
 
 ## Indigo-IKT :: what i do
 Brukerstøtte | Usersupport  
