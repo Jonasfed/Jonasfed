@@ -16,7 +16,7 @@
 │ Hostname: Federley  
 │ Kernel: Brainz 14.2 - Windows - BSD - linux  
 │ Shell: pwsh  
-│ Workgroup: Indigo - IKT IKS  
+│ Workgroup: unknwn  
 └─────────────────────────────────────┘  
 ┌────────────Uptime / Age / DT  
 │ Uptime: Unknwn  
