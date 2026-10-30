@@ -14,7 +14,7 @@
 ┌────────────Software    
 │ OS: Jonxz - unix-like 2.0  
 │ Hostname: Federley  
-│ Kernel: Brainz 14.2 - Windows - BSD - linux  
+│ Kernel: Brainz 20.4 - Windows - BSD - linux  
 │ Shell: pwsh  
 │ Workgroup: unknwn  
 └─────────────────────────────────────┘  
